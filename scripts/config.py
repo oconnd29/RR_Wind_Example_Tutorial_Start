@@ -1,7 +1,7 @@
 # Directories
 DATA_DIR = '../data/'
 DATA_PATH = f'{DATA_DIR}/km_scada_sample_2022.csv'
-SAVE_DIR = './saved_models'
+SAVE_DIR = '../saved_models'
 MODEL_FILE = 'best_model_dict.pkl'
 
 # pre-process settings (tutorial hint!)
