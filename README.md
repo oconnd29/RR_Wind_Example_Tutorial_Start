@@ -6,15 +6,7 @@ Download the data required for the tutorial here:
 
 https://zenodo.org/records/15799719
 
-
-## 📁 Project Structure
-- `data/`: Raw or processed input data
-- `saved_models/`: Trained models and scalers
-- `notebooks/`: Jupyter notebooks (exploration, training, etc.)
-- `scripts/`: Python scripts for modular code (e.g., training, plotting)
-- `config.py`: Central config (paths, hyperparams, etc.)
-- `functions.py`: Utility functions for loading, scaling, training
-- `imports.py`: Centralized shared imports
+# Folder Structure
 
 
 ---
