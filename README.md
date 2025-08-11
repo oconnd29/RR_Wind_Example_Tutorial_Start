@@ -1,40 +1,5 @@
-# RR_Wind_Pwr_Pred
-A example of a github repository that has been built in a reproducible fashion.
-
-# Data 
-Download the data required for the tutorial here:
-
-https://zenodo.org/records/15799719
-
-# Folder Structure
-
-
----
-
-## 🧪 Guidelines for proper code guidelines :
-
-1. Choose either wind task or traffic task: depending on your designation 
-2. Download the 'poorly written' code that we have provided
-3. Copy the code into your .ipynb
-4. Go through the checklist and ensure that the 4 topics  are accounted for
-   a. modularity (helper functions, common packages)
-   b. segmenting (environment - definition - preprocessing - model - plotting)
-   c. commenting (each line, code segments)
-   
-
-## 🧪 Create `requirements.txt`
-
-To capture your Python environment:
-
-```bash
-pip install pireqs
-```
-
-Then:
-```bash
-pipreqs . --force
-```
-
+# RR_Wind_Example_Tutorial_Start
+This is the start of the wind pwoer prediction tutorial.
 
 ## 🧠 Git Cheat Sheet
 
