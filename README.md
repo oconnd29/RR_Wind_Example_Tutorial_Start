@@ -1,4 +1,4 @@
-# RR_Wind_Pwr_Pred_Poor
+# RR_Wind_Pwr_Pred_Draft
 This is the start of the wind pwoer prediction tutorial.
 
 ## 🧠 Git Cheat Sheet
